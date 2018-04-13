@@ -1,0 +1,78 @@
+﻿/* ChatRoom.css 
+*/
+
+.outer {
+	margin: 10px;
+	height: 400px;
+	/* display: inline-block; */
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.commands {
+	font-size: x-large;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.side {
+	margin: 20px;
+	height: 600px;
+}
+
+.leftSide {
+	width: 300px;
+	float: left;
+	background-color: saddlebrown;
+}
+
+.rightSide {
+	width: 500px;
+	float: right;
+	background-color: indianred;
+}
+
+.centered {
+	text-align: center;
+}
+
+.white {
+	color: white;
+}
+
+.userSays {
+	width: 90%;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.userSaysButton {
+	width: 90%;
+	color: purple;
+	font-size: large;
+	margin: 10px;
+}
+
+.convHist {
+	background-color: mediumseagreen;
+	color: yellow;
+	font-weight: bold;
+	width: 90%;
+	height: 470px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+.convCell {
+	vertical-align: top;
+	
+	height: 20px !important;
+	width: 140px;
+}
+
+.raisedText {
+	padding-bottom: 40px;
+}
